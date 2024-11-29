@@ -1,0 +1,50 @@
+Kalkulus:
+  kode: OWP51TI01
+  kelas: 111101
+  waktu: Senin, 08:00 - 10:30
+  ruang: B202
+  dosen: M. Haviz Irfani, S.Si, M.T.I
+
+Fisika Dasar:
+  kode: OWP51TI02
+  kelas: 111101
+  waktu: Senin, 13:20 - 15:20
+  ruang: B203
+  dosen:
+    - Nurmalina Adhiyanti, S.Si, M.Si
+    - Icha Amelia, M.Si
+
+Teknologi Informasi dan Komunikasi:
+  kode: OKPK51TI01
+  kelas: 111101
+  waktu: Selasa, 10:40 - 13:10
+  ruang: B203
+  dosen: Ir. Nazori Suhandi, MM
+
+Matematika Diskrit I:
+  kode: OWP51TI03
+  kelas: 111101
+  waktu: Selasa, 08:00 - 10:30
+  ruang: B202
+  dosen: M. Haviz Irfani, S.Si, M.T.I
+
+Pendidikan Agama:
+  kode: OWUIGM51TI01
+  kelas: 111101
+  waktu: Rabu, 09:50 - 11:30
+  ruang: Kelas Online
+  dosen: Dr. Waldi Nopriansyah, S.H.I, M.S.I
+
+Pendidikan Pancasila:
+  kode: OWUIGM51TI02
+  kelas: 111101
+  waktu: Kamis, 09:50 - 11:30
+  ruang: Kelas Online
+  dosen: Dwiki Adi Putra, S.A.P, M.Si
+
+Algoritma dan Pemrograman:
+  kode: OWP51TI04
+  kelas: 111103
+  waktu: Jumat, 17:40 - 20:10
+  ruang: C0301
+  dosen: Zaid Romegar Mair, S.T., M.Cs
