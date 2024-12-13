@@ -70,6 +70,6 @@ Berikut jadwal mata kuliah untuk kelas 111101 dan 111103. Informasi mencakup kod
 **Deskripsi:** Mata kuliah ini membahas konsep dasar algoritma, pemrograman, dan penyelesaian masalah menggunakan bahasa pemrograman tertentu.  
 - **Kode:** OWP51TI04  
 - **Kelas:** 111103  
-- **Waktu:** Jumat, 17:40 - 20:10  
+- **Waktu:** Kamis, 15:30 - 17:40
 - **Ruang:** C0301  
 - **Dosen:** Zaid Romegar Mair, S.T., M.Cs  
