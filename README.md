@@ -1,6 +1,6 @@
 # Jadwal Mata Kuliah
 
-Dokumen ini berisi jadwal mata kuliah untuk kelas 111101 dan 111103. Informasi mencakup kode mata kuliah, waktu, ruang, dan dosen.
+Berikut jadwal mata kuliah untuk kelas 111101 dan 111103. Informasi mencakup kode mata kuliah, waktu, ruang, dan dosen.
 
 ## Daftar Mata Kuliah
 
